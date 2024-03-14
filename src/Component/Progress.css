@@ -1,0 +1,22 @@
+.progress-bar {
+    width: 50%;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 2rem;
+  }
+  
+  .progress {
+    height: 30px;
+    background-color: #04532e;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+  }
+  
+  .percentage {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+  }
